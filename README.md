@@ -108,20 +108,20 @@ pertama saya membuat looping agar program terus berjalan
 # output 
 ini adalah output apabila memilih tambah(t)
  
-![img](gambar/outputT.png)
+![img](gambar/t.png)
 
 
  ini adalah output apabilah memilih  diubah
 
-![img](gambar/outputU.png)
+![img](gambar/U.png)
 
 ini adalah apabilah mencari output (c)
 
-![img](gambar/outputC.png)
+![img](gambar/C.png)
 
 ini adalah output apabila memilih untuk tambah lagi
 
-![img](gambar/output/outputTl.png)
+![img](gambar/output/tll.png)
 
 ini adalah output apabila memilih hapus(h) 
 
