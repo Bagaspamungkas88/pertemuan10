@@ -1,6 +1,6 @@
 # pertemuan10 (latihan 1)
 
- ![IMG](gambar/soal1.png)
+ ![IMG](gambar/soa1.png)
 
 # jawab
 
@@ -108,28 +108,28 @@ pertama saya membuat looping agar program terus berjalan
 # output 
 ini adalah output apabila memilih tambah(t)
  
-![img](gambar/outputTambah.png)
+![img](gambar/outputT.png)
 
 
  ini adalah output apabilah memilih  diubah
 
-![img](gambar/outputUbah.png)
+![img](gambar/outputU.png)
 
 ini adalah apabilah mencari output (c)
 
-![img](gambar/outputCari.png)
+![img](gambar/outputC.png)
 
 ini adalah output apabila memilih untuk tambah lagi
 
-![img](gambar/output/outputTambahlagi.png)
+![img](gambar/output/outputTl.png)
 
 ini adalah output apabila memilih hapus(h) 
 
-![img](gambar/outputHapus.png)
+![img](gambar/outputH.png)
 
 ini adalah output apabila memilih lihat (l)
 
-![img](gambar/outputLihat.png)
+![img](gambar/outputL.png)
 
 ini adalah output apabila memilih keluar (k)
 
